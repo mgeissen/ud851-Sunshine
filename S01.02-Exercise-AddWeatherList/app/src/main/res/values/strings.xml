@@ -140,4 +140,15 @@
     <!--Used by SunshinePreferences-->
     <!-- - - - - - - - - - - - - - -->
     <!--NONE-->
+    
+    <array name="fake_weather">
+        <string>13 Grad</string>
+        <string>-7 Grad</string>
+        <string>5 Grad</string>
+        <string>90 Grad</string>
+        <string>-173 Grad</string>
+        <string>24.5 Grad</string>
+        <string>4.5 Grad</string>
+    </array>
+    
 </resources>
