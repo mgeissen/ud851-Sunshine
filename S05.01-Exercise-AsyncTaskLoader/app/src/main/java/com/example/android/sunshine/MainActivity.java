@@ -18,7 +18,6 @@ package com.example.android.sunshine;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.AsyncTaskLoader;
@@ -35,7 +34,6 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.example.android.sunshine.ForecastAdapter.ForecastAdapterOnClickHandler;
-import com.example.android.sunshine.data.SunshinePreferences;
 import com.example.android.sunshine.utilities.NetworkUtils;
 import com.example.android.sunshine.utilities.OpenWeatherJsonUtils;
 
